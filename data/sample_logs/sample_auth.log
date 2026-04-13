@@ -1,1 +1,35 @@
-
+Jun 01 00:01:12 server sshd[1001]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 00:01:15 server sshd[1002]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 00:01:18 server sshd[1003]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 00:01:21 server sshd[1004]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 00:01:24 server sshd[1005]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 00:01:27 server sshd[1006]: Failed password for admin from 192.168.1.45 port 22 ssh2
+Jun 01 00:05:00 server sshd[1007]: Accepted password for ubuntu from 10.0.0.5 port 22 ssh2
+Jun 01 00:10:33 server sshd[1008]: Invalid user testuser from 203.45.67.89 port 22 ssh2
+Jun 01 00:12:45 server sshd[1009]: Port scan detected from 45.33.32.156 port 80 ssh2
+Jun 01 00:15:00 server sshd[1010]: Firewall rule triggered for guest from 198.51.100.1 port 443 ssh2
+Jun 01 00:20:10 server sshd[1011]: Failed password for ubuntu from 172.16.0.55 port 22 ssh2
+Jun 01 00:22:00 server sshd[1012]: Accepted password for user from 10.0.0.10 port 22 ssh2
+Jun 01 00:25:30 server sshd[1013]: sudo command executed by ubuntu from 10.0.0.5 port 22 ssh2
+Jun 01 00:30:00 server sshd[1014]: New connection from 10.0.0.20 port 22 ssh2
+Jun 01 00:35:00 server sshd[1015]: Connection closed for user from 10.0.0.10 port 22 ssh2
+Jun 01 01:00:00 server sshd[1016]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 01:00:03 server sshd[1017]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 01:00:06 server sshd[1018]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jun 01 01:00:09 server sshd[1019]: Failed password for admin from 192.168.1.45 port 22 ssh2
+Jun 01 01:00:12 server sshd[1020]: Failed password for test from 192.168.1.45 port 22 ssh2
+Jun 01 01:00:15 server sshd[1021]: Failed password for guest from 192.168.1.45 port 22 ssh2
+Jun 01 01:10:00 server sshd[1022]: Invalid user oracle from 91.220.163.12 port 22 ssh2
+Jun 01 01:15:00 server sshd[1023]: Port scan detected from 45.33.32.156 port 3306 ssh2
+Jun 01 01:20:00 server sshd[1024]: Service started on server port 22 ssh2
+Jun 01 01:30:00 server sshd[1025]: Disk usage critical on server port 0 ssh2
+Jun 01 02:00:00 server sshd[1026]: Accepted password for root from 10.0.0.1 port 22 ssh2
+Jun 01 02:05:00 server sshd[1027]: Failed password for admin from 5.188.206.14 port 22 ssh2
+Jun 01 02:05:03 server sshd[1028]: Failed password for admin from 5.188.206.14 port 22 ssh2
+Jun 01 02:05:06 server sshd[1029]: Failed password for admin from 5.188.206.14 port 22 ssh2
+Jun 01 02:05:09 server sshd[1030]: Failed password for admin from 5.188.206.14 port 22 ssh2
+Jun 01 02:05:12 server sshd[1031]: Failed password for root from 5.188.206.14 port 22 ssh2
+Jun 01 02:10:00 server sshd[1032]: Firewall rule triggered for unknown from 5.188.206.14 port 8080 ssh2
+Jun 01 02:20:00 server sshd[1033]: New connection from 10.0.0.15 port 22 ssh2
+Jun 01 02:25:00 server sshd[1034]: Accepted password for ubuntu from 10.0.0.15 port 22 ssh2
+Jun 01 02:30:00 server sshd[1035]: sudo command executed by ubuntu from 10.0.0.15 port 22 ssh2
