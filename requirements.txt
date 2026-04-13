@@ -1,0 +1,25 @@
+# Real-Time Cybersecurity Log Monitoring & Alerting Dashboard
+# Python Dependencies
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Synthetic data generation
+faker>=18.0.0
+
+# Notebook support
+ipywidgets>=8.0.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Database (built-in, listed for reference)
+# sqlite3  — comes with Python standard library
+
+# Optional: for running locally
+ipython>=8.0.0
